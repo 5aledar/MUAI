@@ -1,11 +1,11 @@
 import React from 'react'
 
-const App = () => {
+const Sumz = () => {
   return (
     <div>
-      hello
+      
     </div>
   )
 }
 
-export default App
+export default Sumz
