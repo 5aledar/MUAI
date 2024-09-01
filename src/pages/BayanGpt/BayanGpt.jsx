@@ -4,7 +4,7 @@ import { Sidbar } from "../../components/sidebar/Sidbar";
 import { Main } from "../../components/main/Main";
 const BayanGpt = () => {
   return (
-    <div>
+    <div id="root-bayan ">
       <Sidbar />
       <Main />
     </div>
